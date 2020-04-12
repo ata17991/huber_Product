@@ -4,4 +4,7 @@ public class Company()
 	private String name = "IBM";
 	
 	public Company constrotur ()
+	
+	
+
 }
